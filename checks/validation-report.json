@@ -1,0 +1,189 @@
+{
+  "status": "PASS",
+  "run_time_utc": "2026-11-05T19:58:14.571230+00:00",
+  "tool": "validate_release.py with Python 3.14.0",
+  "files_checked": 28,
+  "errors": [],
+  "warnings": [],
+  "midi_files": [
+    {
+      "path": "midi/z3601-minimal-drum-and-bass-rollers-opening/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "ec8722420f444179d3ba91c8ba4cd35078750422cbf495202fbb54b0990605af",
+      "errors": []
+    },
+    {
+      "path": "midi/z3601-minimal-drum-and-bass-rollers-opening/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "16ece4a83b27db6ff115b08c942de6030dbdaf41f554606b1bd4943f54ecf274",
+      "errors": []
+    },
+    {
+      "path": "midi/z3601-minimal-drum-and-bass-rollers-opening/drums.mid",
+      "bytes": 2698,
+      "sha256": "ef4a79464b0dd6a8f80df45ad8300c47c75f2b32e972516b5d80a980a8db9616",
+      "errors": []
+    },
+    {
+      "path": "midi/z3601-minimal-drum-and-bass-rollers-opening/principal_motif.mid",
+      "bytes": 816,
+      "sha256": "c94c5bd336c3d43d485648dba7949a98202d8bc4ec570a47fe30b69d820668a4",
+      "errors": []
+    },
+    {
+      "path": "midi/z3601-minimal-drum-and-bass-rollers-opening/sub_bass.mid",
+      "bytes": 798,
+      "sha256": "f126082be47896280b800babe68df9ffc15f5609b2f8441b9fbca9b6788c3ff5",
+      "errors": []
+    },
+    {
+      "path": "midi/z3601-minimal-drum-and-bass-rollers-opening/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "ad448346f45b4ddb701697502486aa043dea537eedb3dc964b14d900a7d88862",
+      "errors": []
+    },
+    {
+      "path": "midi/z3601-minimal-drum-and-bass-rollers-opening/z3601-minimal-drum-and-bass-rollers-opening-combined.mid",
+      "bytes": 5726,
+      "sha256": "55e8df17a53258952d1eeddcfcc4e42629b261009736399c6c42931c48d81a7d",
+      "errors": []
+    },
+    {
+      "path": "midi/z3602-minimal-drum-and-bass-rollers-variation/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "3e6b62eb4fbd7c8a0e421cc380244f984eac43e9f0aa93220f1fdf46f761d6fe",
+      "errors": []
+    },
+    {
+      "path": "midi/z3602-minimal-drum-and-bass-rollers-variation/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "ef639f7c291633316caf85b4529d954a7525c5f0f2f9cab13454352e7979afa4",
+      "errors": []
+    },
+    {
+      "path": "midi/z3602-minimal-drum-and-bass-rollers-variation/drums.mid",
+      "bytes": 2698,
+      "sha256": "ef4a79464b0dd6a8f80df45ad8300c47c75f2b32e972516b5d80a980a8db9616",
+      "errors": []
+    },
+    {
+      "path": "midi/z3602-minimal-drum-and-bass-rollers-variation/principal_motif.mid",
+      "bytes": 815,
+      "sha256": "2bd8b8663a09fa3dd588768b0ab97d11e6439d34dc8a23b99d07dd8f536f88fb",
+      "errors": []
+    },
+    {
+      "path": "midi/z3602-minimal-drum-and-bass-rollers-variation/sub_bass.mid",
+      "bytes": 798,
+      "sha256": "1521c4fd0d4207810320c3904fd28881b66e63cedb87afb552b0c9254304b04c",
+      "errors": []
+    },
+    {
+      "path": "midi/z3602-minimal-drum-and-bass-rollers-variation/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "0848324cd12087eb1a941564a6a19b3a7f7f574519a33af65b66486b4602c18e",
+      "errors": []
+    },
+    {
+      "path": "midi/z3602-minimal-drum-and-bass-rollers-variation/z3602-minimal-drum-and-bass-rollers-variation-combined.mid",
+      "bytes": 5725,
+      "sha256": "dc7013e47d6a456922aca8eb287337099f44410a75137c88b554d321f0d13eb2",
+      "errors": []
+    },
+    {
+      "path": "midi/z3603-minimal-drum-and-bass-rollers-contrast/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "46e388bdd7beea6d75c8f9b735e773dc472e0d4a1b02bbf1d9c30624420780cc",
+      "errors": []
+    },
+    {
+      "path": "midi/z3603-minimal-drum-and-bass-rollers-contrast/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "bcf0a99f309404a6351e82b398f2022c07d8bc2a22367f03de937dc3074a5421",
+      "errors": []
+    },
+    {
+      "path": "midi/z3603-minimal-drum-and-bass-rollers-contrast/drums.mid",
+      "bytes": 2698,
+      "sha256": "ef4a79464b0dd6a8f80df45ad8300c47c75f2b32e972516b5d80a980a8db9616",
+      "errors": []
+    },
+    {
+      "path": "midi/z3603-minimal-drum-and-bass-rollers-contrast/principal_motif.mid",
+      "bytes": 781,
+      "sha256": "ae6b38ad2b8db334e55b8e5cbbf7d77b964b3e82c2434d685464bbd0745278de",
+      "errors": []
+    },
+    {
+      "path": "midi/z3603-minimal-drum-and-bass-rollers-contrast/sub_bass.mid",
+      "bytes": 798,
+      "sha256": "e32c3fe6f2c35ce0d4964bc2e4e10e0749f8f598ab9070400b97860b8ef51d0d",
+      "errors": []
+    },
+    {
+      "path": "midi/z3603-minimal-drum-and-bass-rollers-contrast/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "bff55c40d4fd7b6a523b8bb1106132c8105680ebf182094c15a5240a214dbb28",
+      "errors": []
+    },
+    {
+      "path": "midi/z3603-minimal-drum-and-bass-rollers-contrast/z3603-minimal-drum-and-bass-rollers-contrast-combined.mid",
+      "bytes": 5691,
+      "sha256": "9163d483c272a7224c8762fff400d83489a2a8ee4ed5abfe663cf15c1945f1ac",
+      "errors": []
+    },
+    {
+      "path": "midi/z3604-minimal-drum-and-bass-rollers-return/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "fd7b36b0e2caa2d5042a7c3b6d4b078096acc09d17c910379e44621230b56df6",
+      "errors": []
+    },
+    {
+      "path": "midi/z3604-minimal-drum-and-bass-rollers-return/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "ca95f730a9d400bdce55ceb034f09e0fc113f6477815c1a9e3200c3805f5f99f",
+      "errors": []
+    },
+    {
+      "path": "midi/z3604-minimal-drum-and-bass-rollers-return/drums.mid",
+      "bytes": 2698,
+      "sha256": "ef4a79464b0dd6a8f80df45ad8300c47c75f2b32e972516b5d80a980a8db9616",
+      "errors": []
+    },
+    {
+      "path": "midi/z3604-minimal-drum-and-bass-rollers-return/principal_motif.mid",
+      "bytes": 781,
+      "sha256": "fd65d4ed1d8e60ad6d7787b6c440edf8b16de2dee41631eccae80dbc848662a7",
+      "errors": []
+    },
+    {
+      "path": "midi/z3604-minimal-drum-and-bass-rollers-return/sub_bass.mid",
+      "bytes": 798,
+      "sha256": "cba792350ce6a100c865fb90b265401c4ac631049fd48d375274c1f0c64f6759",
+      "errors": []
+    },
+    {
+      "path": "midi/z3604-minimal-drum-and-bass-rollers-return/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "ad9d09559b1172f443a53594af6c1acd5bd4a1953e8905b067878bb8645f7ec8",
+      "errors": []
+    },
+    {
+      "path": "midi/z3604-minimal-drum-and-bass-rollers-return/z3604-minimal-drum-and-bass-rollers-return-combined.mid",
+      "bytes": 5691,
+      "sha256": "a9064a499476fed386261a95d0f23bad6e1cfbd3d7ca71ba443fe79a0bcad805",
+      "errors": []
+    }
+  ],
+  "duplicate_review": [],
+  "negative_control": {
+    "path": "checks/fixtures/invalid-same-pitch-overlap.mid",
+    "expected_result": "rejected for same-pitch overlap",
+    "passed": true
+  },
+  "limitations": [
+    "Automated technical validation only.",
+    "Nobody auditioned these files.",
+    "Duplicate-motif review is bounded and not exhaustive copyright clearance."
+  ]
+}

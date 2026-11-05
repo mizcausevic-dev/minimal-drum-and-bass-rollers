@@ -1,0 +1,26 @@
+{
+  "title": "Minimal Drum and Bass Rollers",
+  "study": "z3601",
+  "bpm": 174,
+  "source_audio": "preview/minimal-drum-and-bass-rollers-simple-synth-preview.mp3",
+  "source_audio_sha256": "433b6e3b9a59a2c44dd4fdc7e0225414f4ec12a00053909f0f385b24e1fd31e3",
+  "source_midi": "midi/z3601-minimal-drum-and-bass-rollers-opening/z3601-minimal-drum-and-bass-rollers-opening-combined.mid",
+  "source_midi_sha256": "55e8df17a53258952d1eeddcfcc4e42629b261009736399c6c42931c48d81a7d",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "b3f9d07606c541906044d6ec4e3eab915a6cbf7bf9d37f902cc9586c18a6de9d",
+  "art_source_file": "art/hero.jpg",
+  "art_source_sha256": "d365e92511e6ba2c2528373d210efa739a8beadb2dbd7c066a1c992d2d2d2f0f",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/preview.mp4",
+  "video_sha256": "ad36b17fb9a8c3f056573a8fd71d078c38d31c34a8b2b63241edc756271999d4",
+  "caption": "film/preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}

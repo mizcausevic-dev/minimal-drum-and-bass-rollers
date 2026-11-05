@@ -1,0 +1,30 @@
+{
+  "label": "preview, not a master.",
+  "preview_path": "preview/minimal-drum-and-bass-rollers-simple-synth-preview.mp3",
+  "preview_sha256": "433b6e3b9a59a2c44dd4fdc7e0225414f4ec12a00053909f0f385b24e1fd31e3",
+  "source_midi_path": "midi/z3601-minimal-drum-and-bass-rollers-opening/z3601-minimal-drum-and-bass-rollers-opening-combined.mid",
+  "source_midi_sha256": "55e8df17a53258952d1eeddcfcc4e42629b261009736399c6c42931c48d81a7d",
+  "renderer": "release-simple-synth 1.0.0",
+  "renderer_configuration": {
+    "sample_rate": 44100,
+    "source_tracks": [
+      "chord_pulse",
+      "counter_texture",
+      "drums",
+      "principal_motif",
+      "sub_bass",
+      "vocal_like_synth"
+    ],
+    "processing": "Per-voice synthesis and envelopes; summed samples are clamped to +/-0.95, converted to 16-bit stereo PCM and encoded to 192 kb/s MP3."
+  },
+  "selection": {
+    "study": "z3601",
+    "start_seconds": 0,
+    "end_seconds": 44.138
+  },
+  "measurement": {
+    "sample_peak": 0.091054,
+    "not_lufs_or_true_peak": true
+  },
+  "limitations": "Automated generation and decode checks only. Nobody auditioned this simple-synthesis preview. It is not a finished-production sound or master."
+}
