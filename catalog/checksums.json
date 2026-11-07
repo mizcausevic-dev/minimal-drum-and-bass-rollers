@@ -198,8 +198,8 @@
     },
     {
       "path": "downloads/minimal-drum-and-bass-rollers-midi.zip",
-      "bytes": 32030,
-      "sha256": "758984c8ec1e7f8beb337cc0661157cc1b2d3a2c94429193a8ef7e7311c0c215"
+      "bytes": 33017,
+      "sha256": "74ecbd19d6469e1e55038b4f7c8a711f3b02e7400dc5dbb73a09aa2757728848"
     },
     {
       "path": "film/motion-note-roll.png",
@@ -233,8 +233,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 10140,
-      "sha256": "5d5f9d8b6cdc5f95b6ca8231de96e38339332d1493809642a340f8489233c705"
+      "bytes": 10330,
+      "sha256": "4ad78fe3b051f8993090e8eab75b903267222639ddcc005f838a853ce66fbe82"
     },
     {
       "path": "midi/z3601-minimal-drum-and-bass-rollers-opening/chord_pulse.mid",
@@ -377,6 +377,11 @@
       "sha256": "a9064a499476fed386261a95d0f23bad6e1cfbd3d7ca71ba443fe79a0bcad805"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
       "path": "preview/minimal-drum-and-bass-rollers-simple-synth-preview.mp3",
       "bytes": 1072736,
       "sha256": "433b6e3b9a59a2c44dd4fdc7e0225414f4ec12a00053909f0f385b24e1fd31e3"
@@ -388,8 +393,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 4033,
-      "sha256": "4e623611696e52643d0c69ecd08c5223e73698d06a4709a9410eaf1e1f9ccfa6"
+      "bytes": 4148,
+      "sha256": "7c8cc55a937cb9c42fb4de00c2ff9850433aae8f7c3c6e9c5ee45ef65bcdcc1c"
     },
     {
       "path": "social/instagram/caption.txt",
